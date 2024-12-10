@@ -1,2 +1,0 @@
-# Juul
-internetstandaarden
